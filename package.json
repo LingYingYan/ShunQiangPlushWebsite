@@ -1,0 +1,20 @@
+{
+  "name": "sq_website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vuepress build docs",
+    "dev": "vuepress dev docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "vuepress": "1.9.10"
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.10"
+  }
+}
