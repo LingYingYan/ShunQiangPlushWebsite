@@ -6,13 +6,13 @@
     <div>
         <h1 style="font-size: 5vw">Wuxi Shunqiang Plush Technology Co.,Ltd.</h1>
         <p style="font-size: 3vw">We design and manufacture quality fabric.</p>
-        <a href="/contact/" class="contact-button" onclick="openModal()">Contact Us →</a>
+        <a href="/contact/" class="contact-button" style="font-size: 3vw" onclick="openModal()">Contact Us →</a>
     </div>
   </div>
 </div>
 
 <section style="background-color: #ededed; padding: 2rem 1rem; margin: 0; text-align: center;">
-  <p class="about" style="font-size: 3.5vw; font-weight: bold; color: #2c3e50; margin: 0 0 1rem 0;">About Us</p>
+  <p class="about">About Us</p>
   <div class="about-container">
     <div class="about-text">
       <p style="line-height: 1.6;">
@@ -29,8 +29,8 @@
   </div>
 </section>
 
-<section class="highlighted-pdt" style="background-color: #333; text-align: center; padding: 2rem 1rem;">
-  <p class="about" style="font-size: 2.5rem; font-weight: bold; color: #ededed; margin: 0 0 1rem 0;">Highlighted Products</p>
+<section style="background-color: #333; text-align: center; padding: 2rem 1rem;">
+  <p class="highlighted-pdt">Highlighted Products</p>
 
 
 <div style="overflow-x: auto; white-space: nowrap; padding: 1rem;" class="photos">
